@@ -1,0 +1,27 @@
+
+students{
+    border: 2px solid #a1e1e9;
+    margin: 15px;
+    width: 30%;
+    margin-left: 30rem;
+    box-shadow: 0px 8px 16px 0px #589097e2;
+}
+
+name, age, class, father{
+    display: block;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 7px;
+    text-align: center;
+}
+
+name{
+    background-color: #b0f3fc48;
+}
+
+age{
+    background-color: #a4d4db68;
+}
+
+class{
+    background-color: #cdf9ffc9;
+}

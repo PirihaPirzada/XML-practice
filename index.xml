@@ -1,0 +1,13 @@
+<?xml-stylesheet type= "text/css" href= "style.css"?>
+<students>
+<student>
+<name>Piriha</name>
+<age>14</age>
+<father>Wali</father>
+<class>Matric</class>
+<name>Myra</name>
+<age>16</age>
+<father>Irfan</father>
+<class>First-Year</class>
+</student>
+</students>
